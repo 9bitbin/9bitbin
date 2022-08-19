@@ -1,4 +1,4 @@
-👋 Greetings I am @9bitbin
+👋 Greetings I am @9bitbin 
 🧠 I’m interested in Website Development, Application Development 
 📚 I’m currently learning 
 📫 How to reach me on https://9bitbin.bio.link/
