@@ -1,6 +1,6 @@
-# 🌟 Himal Shrestha - IT Enthusiast, Developer & Problem Solver
+# 🌟 9bitbin - IT Enthusiast, Developer & Problem Solver
 
-Hi there! 👋 I'm **Himal Shrestha**, a passionate **Computer Programming student** and tech enthusiast with a knack for solving problems and helping others succeed. I'm currently based in **New York**, navigating the worlds of **mobile app development**, **IT support**, and **software engineering**. I love diving deep into tech—whether it's **Kotlin**, **Java**, **AWS**, or managing intricate IT systems.
+Hi there! 👋 I'm **9bitbin**, a passionate **Computer Programming student** and tech enthusiast with a knack for solving problems and helping others succeed. I'm currently based in **New York**, navigating the worlds of **mobile app development**, **IT support**, and **software engineering**. I love diving deep into tech—whether it's **Kotlin**, **Java**, **AWS**, or managing intricate IT systems.
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/himalstha/) where I share my journey, projects, and thoughts on technology. 💼✨
 
@@ -36,7 +36,7 @@ I'm always excited to learn, collaborate, and grow. Whether you're into **tech d
 
 ---
 
-Thanks for stopping by, and happy coding! 😄👨‍💻
+Thanks for stopping by😄👨‍💻
 
 <!---
 9bitbin/9bitbin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
