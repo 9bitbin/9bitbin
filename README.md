@@ -27,7 +27,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/himalstha
 
 ## 🔗 Let's Connect!
 
-I'm always excited to learn, collaborate, and grow. Whether you're into **tech discussions**, **game dev**, or just want to chat about **Nepali culture** 🇳🇵, let's connect! Feel free to reach out to me on:
+I'm always excited to learn, collaborate, and grow. Whether you're into **👨‍💻tech discussions**, **🎮game dev**, let's connect! Feel free to reach out to me on:
 
 - [LinkedIn](https://www.linkedin.com/in/himalstha/) 💼
 - [GitHub](https://github.com/9bitbin) 👨‍💻
