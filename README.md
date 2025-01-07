@@ -29,7 +29,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/himalstha
 
 I'm always excited to learn, collaborate, and grow. Whether you're into **👨‍💻tech discussions**, **🎮game dev**, let's connect! Feel free to reach out to me on:
 
-- [LinkedIn](https://www.linkedin.com/in/himalstha/) 💼
+
 - [GitHub](https://github.com/9bitbin) 👨‍💻
 
 **Let's create and innovate together!** ✨🚀
