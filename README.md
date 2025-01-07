@@ -2,7 +2,7 @@
 
 Hi there! 👋 I'm **9bitbin**, a passionate **Computer Programming student** and tech enthusiast with a knack for solving problems and helping others succeed. I'm currently based in **New York**, navigating the worlds of **mobile app development**, **IT support**, and **software engineering**. I love diving deep into tech—whether it's **Kotlin**, **Java**, **AWS**, or managing intricate IT systems.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/himalstha/) where I share my journey, projects, and thoughts on technology. 💼✨
+Feel free to connect with me on  where I share my journey, projects, and thoughts on technology. 💼✨
 
 ## 🚀 What I Do
 
