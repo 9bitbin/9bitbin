@@ -26,6 +26,28 @@
 
 ---
 
+### 🌅 featured: PDF Toolkit
+
+<p>
+  <a href="https://9bitbin.github.io/Himal_PDF_Edit_toolkit">
+    <img src="https://img.shields.io/badge/open%20the%20tool-FF6B35?style=for-the-badge&logoColor=FFF1E0" />
+  </a>
+  <a href="https://github.com/9bitbin/Himal_PDF_Edit_toolkit">
+    <img src="https://img.shields.io/badge/source-3D2C5E?style=for-the-badge&logo=github&logoColor=FFF1E0" />
+  </a>
+</p>
+
+A browser-based PDF tool I built. **Merge, split, watermark, and compress** PDFs without uploading anything. Everything runs locally, so your files never leave your device.
+
+| tool | what it does |
+|---|---|
+| 🧩 merge | combine 2+ PDFs in the order you add them |
+| ✂️ split | break a PDF into chunks, downloaded as a .zip |
+| 💧 watermark | diagonal text stamp with adjustable size, rotation, and opacity |
+| 🗜️ compress | optimize internal structure to shrink file size |
+
+---
+
 ### ☀ about
 
 IT help desk tech on Long Island, NY.
@@ -64,8 +86,9 @@ After hours I run a home lab to learn the sysadmin side help desk doesn't cover.
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-FF6B35?style=flat-square&logo=ubuntu&logoColor=FFF1E0)
 ![Git](https://img.shields.io/badge/Git-FF8C69?style=flat-square&logo=git&logoColor=FFF1E0)
 ![Java](https://img.shields.io/badge/Java-F7B32B?style=flat-square&logoColor=1F3B2D)
+![JavaScript](https://img.shields.io/badge/JavaScript-4A7C59?style=flat-square&logo=javascript&logoColor=FFF1E0)
 
-**have used:** Kotlin · Android Studio · PHP · MySQL · JavaScript · Python · Firebase · AWS (intro)
+**have used:** Kotlin · Android Studio · PHP · MySQL · Python · Firebase · AWS (intro)
 
 ### 🌙 outside tech
 
