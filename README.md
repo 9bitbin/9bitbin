@@ -1,44 +1,79 @@
-# 🌟 9bitbin - IT Enthusiast, Developer & Problem Solver
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3D2C5E,45:FF6B35,100:F7B32B&height=200&section=header&text=Himal%20Shrestha&fontSize=48&fontColor=FFF1E0&desc=9bitbin%20%C2%B7%20IT%20%C2%B7%20home%20lab%20%C2%B7%20music&descAlignY=65&descSize=16" />
+</p>
 
-Hi there! 👋 I'm **9bitbin**, a passionate **Computer Programming student** and tech enthusiast with a knack for solving problems and helping others succeed. I'm currently based in **New York**, navigating the worlds of **mobile app development**, **IT support**, and **software engineering**. I love diving deep into tech—whether it's **Kotlin**, **Java**, **AWS**, or managing intricate IT systems.
+<pre align="center">
+      .            *              .          *
+            .          .-~~~-.          .
+   *                .'         '.               .
+        .          /             \      *
+  ________________/_______________\________________
+   ~   ~ ~   ~  ~   ~~~ ~~~ ~~~ ~~~   ~  ~   ~ ~   ~
+      ~   ~   ~   ~   ~~~ ~~~ ~~~   ~   ~   ~   ~
+   /\/\    ~    ~    ~   ~~~ ~~~   ~    ~    /\/\
+  /    \/\    ~    ~    ~   ~~~   ~    ~   /\/    \
+</pre>
 
-Feel free to connect with me on  where I share my journey, projects, and thoughts on technology. 💼✨
-
-## 🚀 What I Do
-
-- 💻 **Mobile App Developer** using Kotlin, Jetpack Compose, and Android controls.
-- 🛠️ **IT Support Specialist** with hands-on experience solving technical challenges and managing infrastructure.
-- 📊 **Data & Web Development Enthusiast** currently learning to build and manage databases in MySQL, PHP, and JavaScript.
-- 🎨 **JavaFX UI Creator**: Building cool user interfaces with FXML and Scene Builder.
-
-## 🌱 Current Projects
-
-- **Personal Finance Manager App** (Mobile App Development class project)
-- **Registration & Login App** using Jetpack Compose (Android Development)
-- **JavaFX Projects**: TipCalculator and ColorChooser apps for learning and growth
-- **Minecraft SMP Server** setup and management for a fun gaming community! 🛠️🎮
-
-## 🎯 My Skills
-
-- **Programming Languages**: Java, Kotlin, PHP, Python
-- **Web Tech**: HTML, CSS, JavaScript, PHP
-- **Database**: MySQL, Firebase
-- **Tools & Frameworks**: Android Studio, IntelliJ, Git, AWS, Scene Builder
-
-## 🔗 Let's Connect!
-
-I'm always excited to learn, collaborate, and grow. Whether you're into **👨‍💻tech discussions**, **🎮game dev**, let's connect! Feel free to reach out to me on:
-
-
-- [GitHub](https://github.com/9bitbin) 👨‍💻
-
-**Let's create and innovate together!** ✨🚀
+<p align="center">
+  <img src="https://img.shields.io/badge/dusk-3D2C5E?style=flat-square" />
+  <img src="https://img.shields.io/badge/twilight-6C5B7B?style=flat-square" />
+  <img src="https://img.shields.io/badge/ember-FF6B35?style=flat-square" />
+  <img src="https://img.shields.io/badge/coral-FF8C69?style=flat-square" />
+  <img src="https://img.shields.io/badge/marigold-F7B32B?style=flat-square" />
+  <img src="https://img.shields.io/badge/moss-4A7C59?style=flat-square" />
+  <img src="https://img.shields.io/badge/pine-1F3B2D?style=flat-square" />
+</p>
 
 ---
 
-Thanks for stopping by😄👨‍💻
+### ☀ about
 
-<!---
-9bitbin/9bitbin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+IT help desk tech on Long Island, NY.
+B.S. in Computer Programming & Information Systems, SUNY Farmingdale.
+
+I fix things for people: users, devices, accounts, networks.
+After hours I run a home lab to learn the sysadmin side help desk doesn't cover.
+
+### 🌄 experience
+
+| role | where |
+|---|---|
+| Junior Help Desk *(current)* | TransPerfect |
+| IT Support | Bethpage School District |
+| IT Skills Instructor | The Viscardi Center |
+| IT Intern | Infinite Consulting Corp |
+
+### 🌱 growing right now
+
+- **home lab**: Windows Server, Active Directory, Ubuntu. Domains, users, group policy, Linux basics.
+- **text expander for Windows**: Espanso-style tray app with a GUI editor and trigger-based expansion. Still in the planning stage.
+
+### 🍂 from school
+
+- Personal Finance Manager (Android, Kotlin)
+- Registration & Login app (Jetpack Compose)
+- JavaFX practice apps: TipCalculator, ColorChooser
+- PHP/MySQL web projects
+
+*Class projects. They show what I've worked with, not what I'd claim expertise in.*
+
+### 🪨 toolkit
+
+![Windows](https://img.shields.io/badge/Windows-3D2C5E?style=flat-square&logo=windows&logoColor=FFF1E0)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-6C5B7B?style=flat-square)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-FF6B35?style=flat-square&logo=ubuntu&logoColor=FFF1E0)
+![Git](https://img.shields.io/badge/Git-FF8C69?style=flat-square&logo=git&logoColor=FFF1E0)
+![Java](https://img.shields.io/badge/Java-F7B32B?style=flat-square&logoColor=1F3B2D)
+
+**have used:** Kotlin · Android Studio · PHP · MySQL · JavaScript · Python · Firebase · AWS (intro)
+
+### 🌙 outside tech
+
+I sing and write songs, mostly drawn to ambient music, the kind that feels like an empty hallway at golden hour.
+Also learning Mandarin, slowly. 慢慢来.
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A7C59,100:1F3B2D&height=110&section=footer" />
+</p>
