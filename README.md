@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3D2C5E,45:FF6B35,100:F7B32B&height=200&section=header&text=Himal%20Shrestha&fontSize=48&fontColor=FFF1E0&desc=9bitbin%20%C2%B7%20IT%20%C2%B7%20home%20lab%20%C2%B7%20music&descAlignY=65&descSize=16" />
 </p>
 
-<pre align="center">
+<pre align="auto">
             .             |             .         *
       *          \        |        /
                     \  ▄▄▄▄▄▄▄  /           .
