@@ -32,7 +32,7 @@ IT help desk tech on Long Island, NY · B.S. Computer Programming & Information 
 
 I fix things for people: users, devices, accounts, networks. After hours I build my own tools and run a home lab to learn the sysadmin side help desk doesn't cover.
 
-**Growing toward:** systems administration and infrastructure.
+**Growing toward:** IAM, security, systems administration and infrastructure.
 
 ---
 
