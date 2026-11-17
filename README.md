@@ -4,7 +4,7 @@
 
 <pre align="center">
              .           |            .        *
-      *          \       |       /
+-          \       |       /
              \  _.---._  /            .
 .':::::::'.
   ________________.':::::::::::'._________________
@@ -41,7 +41,7 @@ I create tools for people: users, devices, accounts, networks. After hours I bui
 ### 🌅 featured: PDF Toolkit
 
 <p>
-  <a href="https://9bitbin.github.io/Himal_PDF_Edit_toolkit"><img alt="Open the tool" src="https://img.shields.io/badge/open%20the%20tool-FF6B35?style=for-the-badge" /></a>
+  <a href="https://9bitbin.github.io/tools/pdf-toolkit/"><img alt="Open the tool" src="https://img.shields.io/badge/open%20the%20tool-FF6B35?style=for-the-badge" /></a>
   <a href="https://github.com/9bitbin/Himal_PDF_Edit_toolkit"><img alt="Source code" src="https://img.shields.io/badge/source-3D2C5E?style=for-the-badge&logo=github&logoColor=FFF1E0" /></a>
 </p>
 
