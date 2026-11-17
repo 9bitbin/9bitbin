@@ -21,8 +21,10 @@
 <p align="center">
   <a href="👉 YOUR_LINKEDIN_URL"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-3D2C5E?style=for-the-badge&logo=linkedin&logoColor=FFF1E0" /></a>
   <a href="mailto:👉 YOUR_EMAIL"><img alt="Email" src="https://img.shields.io/badge/Email-FF6B35?style=for-the-badge&logo=gmail&logoColor=FFF1E0" /></a>
-  <a href="https://9bitbin.github.io/Himal_PDF_Edit_toolkit"><img alt="PDF Toolkit" src="https://img.shields.io/badge/PDF%20Toolkit-F7B32B?style=for-the-badge&logoColor=1F3B2D" /></a>
+  <a href="https://9bitbin.github.io/tools/pdf-toolkit/"><img alt="PDF Toolkit" src="https://img.shields.io/badge/PDF%20Toolkit-F7B32B?style=for-the-badge&logoColor=1F3B2D" /></a>
 </p>
+
+
 
 ---
 
