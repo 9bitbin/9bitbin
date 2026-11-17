@@ -27,7 +27,7 @@
 
 **IT Support Specialist & Systems Tinker in New York** · B.S. in Computer Programming & Information Systems, SUNY Farmingdale.
 
-By trade, I diagnose broken machinery, untangle network knots, and keep user ecosystems running like well-oiled gears. By nature, I'm an INFP navigating a structured world with an imaginative, internal compass. After hours, I retreat to my self-hosted workshop to build quiet utilities and explore the art of digital infrastructure.
+By trade, I diagnose broken machinery, untangle network knots, and keep user ecosystems running like well-oiled gears. By nature, im someone navigating a structured world with an imaginative, internal compass. After hours, I retreat to my self-hosted workshop to build quiet utilities and explore the art of digital infrastructure.
 
 > **Current Trajectory:** IAM architecture, endpoint security, Linux systems administration, and heavy automation.
 
