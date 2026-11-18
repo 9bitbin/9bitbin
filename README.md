@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Himal Shrestha Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:2B1B17,45:C05621,100:D69E2E&height=200&section=header&text=Himal%20Shrestha&fontSize=48&fontColor=FFFBEB&desc=9bitbin%20%C2%B7%20Steampunk%20Infra%20%C2%B7%20INFP%20Mind%20%C2%B7%20Ambient%20Soundscapes&descAlignY=65&descSize=15" />
+  <img alt="Himal Shrestha Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:2B1B17,45:C05621,100:D69E2E&height=200&section=header&text=Himal%20Shrestha&fontSize=48&fontColor=FFFBEB&desc=9bitbin%20%C2%B7%20Steampunk%20Infra%20%C2%B7%20%C2%B7%20Ambient%20Soundscapes&descAlignY=65&descSize=15" />
 </p>
 
 <pre align="center">
