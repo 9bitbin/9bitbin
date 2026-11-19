@@ -64,10 +64,10 @@ Most modern cloud tools demand you hand your personal scrolls over to a stranger
 
 | rank / title | organization | focus domain |
 | :--- | :--- | :--- |
-| **Junior Help Desk Specialist** *(Current)* | TransPerfect | Enterprise ticket resolution, user provisioning, endpoint telemetry |
-| **IT Support Technician** | Bethpage School District | District-wide deployment, hardware maintenance, SCCM, Google Admin |
-| **IT Skills Instructor** | The Viscardi Center | Technical guidance and adaptive assistive technology |
-| **IT Intern** | Infinite Consulting Corp | Infrastructure foundations and workstation deployment |
+| **Junior Help Desk Specialist** *(Current)* | | Enterprise ticket resolution, user provisioning, endpoint telemetry |
+| **IT Support Technician** | | District-wide deployment, hardware maintenance, SCCM, Google Admin |
+| **IT Skills Instructor** | | Technical guidance and adaptive assistive technology |
+| **IT Intern** | | Infrastructure foundations and workstation deployment |
 
 ---
 
