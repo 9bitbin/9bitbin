@@ -62,8 +62,8 @@ Most modern cloud tools demand you hand your personal scrolls over to a stranger
 
 ### 🗺️ 04 · expedition history (experience)
 
-| rank / title | focus domain |
-| :--- |   :--- |
+| rank / title | focus / domain |
+| :--- | :--- 
 | **Junior Help Desk Specialist** *(Current)* | | Enterprise ticket resolution, user provisioning, endpoint telemetry |
 | **IT Support Technician** | | District-wide deployment, hardware maintenance, SCCM, Google Admin |
 | **IT Skills Instructor** | | Technical guidance and adaptive assistive technology |
