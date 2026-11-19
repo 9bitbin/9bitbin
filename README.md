@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Himal Shrestha Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:2B1B17,45:C05621,100:D69E2E&height=200&section=header&text=Himal%20Shrestha&fontSize=48&fontColor=FFFBEB&desc=9bitbin%20%C2%B7%20Steampunk%20Infra%20%C2%B7%20%C2%B7%20Ambient%20Soundscapes&descAlignY=65&descSize=15" />
+  <img alt="Himal Shrestha Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:2B1B17,45:C05621,100:D69E2E&height=200&section=header&text=Himal%20Shrestha&fontSize=48&fontColor=FFFBEB&desc=9bitbin%20%C2%B7%20Quiet%20Systems%20%C2%B7%20Ambient%20Soundscapes&descAlignY=65&descSize=15" />
 </p>
 
 <pre align="center">
@@ -11,7 +11,7 @@
 </pre>
 
 <p align="center">
-  <i>fixing the clockwork by day · dreaming up digital machinery by night · ambient frequencies always</i>
+  <i>tending the gears by day · shaping quiet digital worlds by night · ambient frequencies always</i>
 </p>
 
 <p align="center">
@@ -26,26 +26,26 @@
 
 **IT Support Specialist & Systems Tinker in New York** · B.S. in Computer Programming & Information Systems, SUNY Farmingdale.
 
-By trade, I diagnose broken machinery, untangle network knots, and keep user ecosystems running like well-oiled gears. By nature, im someone navigating a structured world with an imaginative, internal compass. After hours, I retreat to my self-hosted workshop to build quiet utilities and explore the art of digital infrastructure.
+By trade, I untangle network knots, steady broken machinery, and keep people's day-to-day setups running smoothly. By nature, I'm someone moving through a structured world with an imaginative inner compass—drawn to things that feel thoughtful, honest, and unhurried. When the workday winds down, I step into my self-hosted corner to build quiet utilities and shape digital spaces on my own terms.
 
-> **Current Trajectory:** IAM architecture, endpoint security, Linux systems administration, and heavy automation.
+> **Current Trajectory:** IAM architecture, endpoint security, Linux systems administration, and thoughtful automation.
 
 ---
 
 ### 📜 02 · featured artifact: PDF Toolkit
 
 **Local-first document engineering. Zero server upload pipes.**  
-Most modern cloud tools demand you hand your personal scrolls over to a stranger's automated ledger. I built this client-side utility so your private files never leave the safety of your own machine's engine room.
+A lot of modern tools ask you to hand personal files over to a stranger's black box. I built this client-side utility so private documents stay right where they belong—inside your own machine's engine room, handled with care and zero unnecessary exposure.
 
 <p>
   <a href="https://9bitbin.github.io/tools/pdf-toolkit/"><img alt="Launch Engine" src="https://img.shields.io/badge/Launch%20Tool-C05621?style=for-the-badge" /></a>
   <a href="https://github.com/9bitbin/Himal_PDF_Edit_toolkit"><img alt="Examine Blueprint" src="https://img.shields.io/badge/Examine%20Source-2B1B17?style=for-the-badge&logo=github&logoColor=D69E2E" /></a>
 </p>
 
-* 🧩 **Merge:** Fuse multiple scrolls into a single unified manuscript
-* ✂️ **Split:** Dissect pages into individual dispatches bundled in a `.zip` container
-* 💧 **Watermark:** Imprint custom brass-stamped text overlays securely in memory
-* 🗜️ **Compress:** Shrink heavy payloads without sacrificing legibility
+- 🧩 **Merge:** Gather scattered pages into one cohesive manuscript
+- ✂️ **Split:** Separate pages cleanly into individual dispatches inside a `.zip` container
+- 💧 **Watermark:** Stamp subtle, custom text overlays in memory without leaving traces behind
+- 🗜️ **Compress:** Trim heavy files down while keeping them clear and readable
 
 ---
 
@@ -53,10 +53,10 @@ Most modern cloud tools demand you hand your personal scrolls over to a stranger
 
 | mechanism | specifications & architecture | status |
 | :--- | :--- | :--- |
-| **Airship Cluster** | Ubuntu & Windows Server nodes tethered via **Tailscale** mesh VPN, monitored via **Grafana** brass dials, backed by a 32TB local RAID media repository (**Jellyfin**) | 🟢 operational |
+| **Airship Cluster** | Ubuntu & Windows Server nodes linked over a **Tailscale** mesh VPN, watched by **Grafana** gauges, and anchored by a 32TB local RAID media library (**Jellyfin**) | 🟢 operational |
 | **Enterprise Foundry** | Active Directory domains, Group Policy (GPO) levers, identity provisioning, and PowerShell automation valves | 🟢 operational |
-| **Blueprint Records** | Documenting the trials, errors, and breakthroughs of every server rack and script | 🟡 drafting |
-| **Windows Automaton** | A lightweight system-tray utility with a graphical editor for custom trigger-based text expansion | 🟠 in blueprint phase |
+| **Blueprint Records** | Honest notes on the detours, lessons, and quiet breakthroughs behind every server and script | 🟡 drafting |
+| **Windows Automaton** | A gentle system-tray helper with a visual editor for trigger-based text expansion | 🟠 in blueprint phase |
 
 ---
 
@@ -65,8 +65,8 @@ Most modern cloud tools demand you hand your personal scrolls over to a stranger
 | rank / title | focus / domain |
 | :--- | :--- |
 | **Junior Help Desk Specialist** *(Current)* | Enterprise ticket resolution, user provisioning, endpoint telemetry |
-| **IT Support Technician** | District-wide deployment, hardware maintenance, SCCM, Google Admin |
-| **IT Skills Instructor** | Technical guidance and adaptive assistive technology |
+| **IT Support Technician** | District-wide deployment, hardware care, SCCM, Google Admin |
+| **IT Skills Instructor** | Patient technical guidance and adaptive assistive technology |
 | **IT Intern** | Infrastructure foundations and workstation deployment |
 
 ---
@@ -94,11 +94,5 @@ Most modern cloud tools demand you hand your personal scrolls over to a stranger
 
 ### 🕯️ 06 · beyond the control room (inner world)
 
-* 🎹 Composing ambient soundscapes on piano and voice—musical spaces that feel like an empty Victorian hallway at golden hour.
-* 🇨🇳 Studying Mandarin brick by brick. *慢慢来* (Slowly, step by step).
-
----
-
-<p align="center">
-  <img alt="Footer Brass Wave" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A3B32,100:2B1B17&height=110&section=footer" />
-</p>
+- 🎹 Composing ambient soundscapes on piano and voice—spaces that feel like an empty Victorian hallway at golden hour.
+- 🇨🇳 Learning Mandarin a little at a time. *慢慢来* (Slowly, step by step).
